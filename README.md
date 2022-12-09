@@ -8,17 +8,15 @@
 <!-- <img src="https://c.tenor.com/GKlLEY5omHwAAAAC/bored-anime.gif"> -->
 <hr>
 
+ # (## ⬇️ Contact me via these platforms!)
 
-[//]: # (## ⬇️ Contact me via these platforms!)
+<div  float="right">
+ <a href="https://www.linkedin.com/in/ilknur-basak-y-4440231a3" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>
 
-[//]: # ()
-[//]: # (<a href="https://www.twitter.com/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171179-f237f180-a710-11eb-9ff4-3b3935c74d44.png" width="55px"></img></a>)
+ <a href="https://medium.com/@ilknurbasak66" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="55x"></img></a>
 
-[//]: # (<a href="https://www.linkedin.com/in/ilknur88" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171176-f19f5b00-a710-11eb-84e9-b16771b30e2d.png" width="55x"></img></a>)
-
-[//]: # (<a href="https://www.instagram.com/torukobyte" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px"></img></a>)
-
-[//]: # (<a href="mailto:ilknurbasak66@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>)
+ <a href="mailto:ilknurbasak66@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px"></img></a>
+</div>
 
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/61664693/116169127-b307a180-a70c-11eb-9097-06d1f280065e.png" width="40px"></img></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/61664693/116169150-b6029200-a70c-11eb-9921-7069d54849ae.png" width="40px"></img></a>
